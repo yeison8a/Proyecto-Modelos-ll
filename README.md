@@ -232,3 +232,7 @@ incluyendo:
 - predicciones
 - gráficas
 - resultados de reducción de dimensión
+
+
+Mira el video aquí:  
+https://youtu.be/Ok9LUof7cQA
